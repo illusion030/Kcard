@@ -1,0 +1,16 @@
+F:\大學部\C#\KCARD\KCARD\bin\Release\KCARD.exe.config
+F:\大學部\C#\KCARD\KCARD\bin\Release\KCARD.exe
+F:\大學部\C#\KCARD\KCARD\bin\Release\KCARD.pdb
+F:\大學部\C#\KCARD\KCARD\bin\Release\Kcard_class.dll
+F:\大學部\C#\KCARD\KCARD\bin\Release\Kcard_class.pdb
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.csprojResolveAssemblyReference.cache
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.Form1.resources
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.Form_Assign.resources
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.Form_Back.resources
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.Form_Home.resources
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.Form_Login.resources
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.Form_Post.resources
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.Properties.Resources.resources
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.csproj.GenerateResource.Cache
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.exe
+F:\大學部\C#\KCARD\KCARD\obj\Release\KCARD.pdb
